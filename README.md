@@ -1,4 +1,5 @@
-##  Boas vindas ao meu perfil
+##  Bem-vindos ao meu perfil
+meu nome é Laura Bazilio
 
 <!--
 **Lau15ra/Lau15ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
